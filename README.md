@@ -76,7 +76,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable software, e
 </div>
 
 ###
-
+## 💻 Connect with
 <div align="center">
   
   <img src="https://img.shields.io/static/v1?message=portfolio&logo=portfolio&label=&color=5D2F77&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
