@@ -1,6 +1,6 @@
 
 
-<img width="1536" height="300" alt="Designer (1)" src="https://github.com/user-attachments/assets/f6f921a7-3ecb-4f84-ac79-780883733205" />
+<img width="1536" height="250" alt="Designer (1)" src="https://github.com/user-attachments/assets/f6f921a7-3ecb-4f84-ac79-780883733205" />
 
 # 👋 Hi, I'm Rahul B. Kakade
 ### 💼 Java Developer | 📍 Mumbai
