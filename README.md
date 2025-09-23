@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 !Banner
-![Uploading 971.jpg…]()
+![971](https://github.com/user-attachments/assets/e1618cc3-942c-4c77-9976-ed05db05388c)
+
 
 # 👋 Hi, I'm Rahul B. Kakade
 ### 💼 Java Developer | 📍 Mumbai
