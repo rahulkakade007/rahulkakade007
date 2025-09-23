@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 !Banner
-!(https://github.com/user-attachments/assets/e1618cc3-942c-4c77-9976-ed05db05388c)
+<img src="![971](https://github.com/user-attachments/assets/e1618cc3-942c-4c77-9976-ed05db05388c)" height="300" alt="Benner" />
 
 
 # 👋 Hi, I'm Rahul B. Kakade
