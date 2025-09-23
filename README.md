@@ -2,13 +2,11 @@
 !Banner
 
 # 👋 Hi, I'm Rahul B. Kakade
-### 💼 Senior Software Engineer | 📍 Navi Mumbai
-
+### 💼 Java Developer | 📍 Mumbai
 
 Welcome to my GitHub profile! I'm passionate about building scalable software, exploring new technologies, and contributing to open-source projects.
-
-<h2 align="left">Hi 👋! My name is RAHUL KAKADE</h2>
----
+####
+</br></br>
 
 ## 🔧 Tech Stack
 <div align="center">
