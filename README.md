@@ -1,6 +1,6 @@
 
 
-<img width="1536" height="300" alt="Designer (2)" src="https://github.com/user-attachments/assets/131a32ed-b661-40ce-a9ae-701e6c58c82b" />
+<img width="1536" height="400" alt="Designer (2)" src="https://github.com/user-attachments/assets/131a32ed-b661-40ce-a9ae-701e6c58c82b" />
 
 
 # 👋 Hi, I'm Rahul B. Kakade
