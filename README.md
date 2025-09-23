@@ -1,5 +1,8 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](<img src="![971](https://github.com/user-attachments/assets/35fc4758-ed60-4d5b-8ade-8664bfa025c0)" height="150" alt="stats graph"  />)
+
+
+(https://1.bp.blogspot.com/-7A4WynwLsM...)]
 
 <h2 align="left">Hi 👋! My name is RAHUL KAKADE</h2>
 
