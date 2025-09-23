@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm passionate about building scalable software, exploring new technologies, and contributing to open-source projects.
 ####
-</br></br>
+</br>
 
 ## 🔧 Tech Stack
 <div align="center">
@@ -35,8 +35,12 @@ Welcome to my GitHub profile! I'm passionate about building scalable software, e
 </div>
 
 ###
+
 ###
+</br>
+
 ## 💻 Connect with
+
 <div align="center">
   
   <img src="https://img.shields.io/static/v1?message=portfolio&logo=portfolio&label=&color=5D2F77&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
