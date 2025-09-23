@@ -1,5 +1,19 @@
-!Banner
-[![MasterHead]([971](https://github.com/user-attachments/assets/35fc4758-ed60-4d5b-8ade-8664bfa025c0))
+<!-- Masthead Banner -->
+![Masthead](https://raw.githubusercontent.com/rahulkakade/rahulkakade/main/assets/mumbai
+
+Welcome to my GitHub profile! I'm passionate about building scalable software, exploring new technologies, and contributing to open-source projects.
+
+---
+
+## 🔧 Tech Stack
+- 💻 Languages: Java, Python, JavaScript
+- 🛠️ Frameworks: Spring Boot, React, Node.js
+- ☁️ Cloud: AWS, Azure
+- 🗄️ Databases: MySQL, MongoDB
+
+## 📈 GitHub Stats
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkakade&show_icons=true&themeo
+
 
 
 (https://1.bp.blogspot.com/-7A4WynwLsM...)]
