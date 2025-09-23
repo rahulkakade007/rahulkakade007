@@ -1,5 +1,9 @@
-<!-- Masthead Banner -->
-![Masthead](https://raw.githubusercontent.com/rahulkakade/rahulkakade/main/assets/mumbai
+<!-- Banner Image -->
+!Banner
+
+# 👋 Hi, I'm Rahul B. Kakade
+### 💼 Senior Software Engineer | 📍 Navi Mumbai
+
 
 Welcome to my GitHub profile! I'm passionate about building scalable software, exploring new technologies, and contributing to open-source projects.
 
@@ -32,6 +36,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable software, e
   
 </div>
 
+###
 ###
 ## 💻 Connect with
 <div align="center">
