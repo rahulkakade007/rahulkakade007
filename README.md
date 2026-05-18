@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable software, e
 
 <div align="center">
   
-  <img src="https://img.shields.io/static/v1?message=portfolio&logo=portfolio&label=&color=5D2F77&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  
   <img src="https://img.shields.io/static/v1?message=resume&logo=resume&label=&color=3A6F43&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Resume logo"  />
  <a href="https://www.linkedin.com/in/rahulkakade15/" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"
      alt="linkedin logo"  /></a>
