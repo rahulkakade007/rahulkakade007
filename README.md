@@ -1,6 +1,7 @@
+<img width="3584" height="1184" alt="Gemini_Generated_Image_kz5o2ukz5o2ukz5o" src="https://github.com/user-attachments/assets/2c71ff2f-18d2-4113-9d4e-3e52cc943a3b" />
 
 
-<img width="1536" height="300" alt="Designer (2)" src="https://github.com/user-attachments/assets/131a32ed-b661-40ce-a9ae-701e6c58c82b" />
+<!-- <img width="1536" height="300" alt="Designer (2)" src="https://github.com/user-attachments/assets/131a32ed-b661-40ce-a9ae-701e6c58c82b" /> -->
 
 
 # 👋 Hi, I'm Rahul B. Kakade
